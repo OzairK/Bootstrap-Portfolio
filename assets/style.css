@@ -1,0 +1,30 @@
+body{
+    background: #efeee7;
+}
+
+.My_Footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: gray;
+    height: 9%;
+    width: 100%;
+    text-align: center;
+    
+
+}
+
+.navBar{
+    width:100%;
+    margin: 0 ;
+}
+
+
+.content{
+
+    padding-top: 5%;
+
+    }
+
+.socialMedia {
+    margin-bottom: 20%;
+}
